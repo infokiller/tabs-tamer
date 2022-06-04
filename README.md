@@ -1,3 +1,3 @@
 # Tabs Tamer
 
-Experimental tab management extension, not ready for general use. 
+Experimental tab management extension, not ready for general use.
